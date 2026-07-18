@@ -1,4 +1,4 @@
-# UNP Grading System (prototype v0.1)
+# Grading System (prototype v0.1)
 
 Imports UNP class list PDFs, records raw scores per grading component,
 computes Midterm, Finals, and Semestral grades using the E-Class Record
